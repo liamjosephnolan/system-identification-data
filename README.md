@@ -2,6 +2,8 @@
 Data repo for sharing raw system ident data for Liam Nolans master's thesis
 
 roll_step_response_roll_0_pitch_0.csv  This is the roll dof data using open loop control
+
+
 prbs_roll_0_pitch_0.csv  This is the pitch dof identifcation data using a light closed loop controller and prbs  
 
 
